@@ -4,6 +4,11 @@ I'm Rafał. Currently I spend my free time improving my Openwrt images/applicati
 
 - 🌱 I’m currently learning Lua, JavaScript, Bash, Html.
 
+
+
+
+![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
+
 <!--
 **4IceG/4IceG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
