@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rafał. Currently I spend my free time improving my Openwrt images/applications.
+
+- 🌱 I’m currently learning Lua, JavaScript, Bash, Html.
+
 <!--
 **4IceG/4IceG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
