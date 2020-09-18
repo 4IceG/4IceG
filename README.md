@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Rafał. Currently I spend my free time improving my Openwrt images/applications.
+I'm Rafał.
 
-- 🌱 I’m currently learning Lua, JavaScript, Bash, Html.
+- 📫 How to reach me: look for me on eko.one.pl forum.
 
 
 
