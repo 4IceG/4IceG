@@ -4,7 +4,7 @@ I'm Rafał.
 
 - 📫 How to reach me: look for me on eko.one.pl forum.
 
-![](https://en.blog.nic.cz/wp-content/uploads/sites/2/2020/03/openwrt-logo-usage-guidelines.jpg)
+![](https://raw.githubusercontent.com/4IceG/Personal_data/master/openwrt.jpg)
 
 
 ![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
