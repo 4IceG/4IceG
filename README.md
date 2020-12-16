@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Rafał, welcome on my Github. I have been a user and fan of Openwrt for several years.
-If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected with me should be useful to you.
+If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected with me should be useful for you.
 
 
 ![](https://raw.githubusercontent.com/4IceG/Personal_data/master/oe2.png)
