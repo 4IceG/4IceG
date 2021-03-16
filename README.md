@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there | Cześć 👋
 
 My name is Rafał, welcome on my Github. I have been a user and fan of Openwrt for several years.
-If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected with me should be useful for you.
-
-- 📫 How to reach me: look for me on eko.one.pl forum.
-
-### Cześć 👋
+If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected with me should be useful for you. 
 
 Mam na imię Rafał, witam na moim Githubie. Jestem użytkownikiem i fanem Openwrt od kilku lat.
 Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A to zebrane u mnie aplikacje powinny Ci się przydać.
 
-- 📫 Gdzie jestem dostępny: szukaj mnie na forum eko.one.pl.
+- 📫 How to reach me: look for me on eko.one.pl forum. | Gdzie jestem dostępny: szukaj mnie na forum eko.one.pl.
 
 ---
 
