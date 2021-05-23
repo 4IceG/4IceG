@@ -10,7 +10,7 @@ Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A to zebrane u mnie aplik
 
 ---
 
-![](https://raw.githubusercontent.com/4IceG/Personal_data/master/oe2mm.png)
+![](https://raw.githubusercontent.com/4IceG/Personal_data/master/ltemonster.png)
 
 ![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
 
