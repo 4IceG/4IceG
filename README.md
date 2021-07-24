@@ -11,6 +11,11 @@ Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A to zebrane u mnie aplik
 <h4 align="left theme=dark">Gdzie jestem dostępny:</h4>
 Szukaj mnie na forum eko.one.pl.
 
+
+
+<h4 align="left theme=dark">Thanks and support | Podziękowanie i wsparcie:</h4>
+<a href="https://buycoffee.to/iceg" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary-outline.svg" width="150" alt="Postaw mi kawę na buycoffee.to"></a>
+
 ---
 
 <p align="center">
