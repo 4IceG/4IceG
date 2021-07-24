@@ -13,7 +13,9 @@ Szukaj mnie na forum eko.one.pl.
 
 
 
-<h4 align="left theme=dark">Thanks and support | Podziękowanie i wsparcie:</h4>
+<h4 align="left theme=dark">If you like to use My Apps, you want to thank me for what I do for our community - you can buy me a coffee. Thank you.
+
+Jeżeli Moje pakiety Ci się przydają, chcesz podziękować za to co robię dla Naszej społeczności - możesz postawić mi kawę. Dziękuję.</h4>
 <a href="https://buycoffee.to/iceg" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary-outline.svg" width="150" alt="Postaw mi kawę na buycoffee.to"></a>
 
 ---
