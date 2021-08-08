@@ -14,7 +14,7 @@ Szukaj mnie na forum eko.one.pl.
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/ltemonsterminia.png" />
+<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/mylte.png" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
