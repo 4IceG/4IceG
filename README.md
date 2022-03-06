@@ -29,7 +29,7 @@ If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected wi
 Look for me on eko.one.pl forum.
 
 <p align="center">
-<img src="https://github.com/4IceG/Personal_data/blob/master/inswu.png?raw=true" />
+<img src="https://github.com/4IceG/Personal_data/blob/master/inswumin.png?raw=true" />
 </p>
 
 ---
