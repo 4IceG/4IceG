@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Cześć 👋
-Mam na imię Rafał (IceG), witam na moim Githubie. Jestem użytkownikiem i fanem Openwrt od kilku lat.
-Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A to zebrane u mnie aplikacje powinny Ci się przydać.
+Mam na imię Rafał (pseudonim w sieci/nick: IceG), witam na moim Githubie. Jestem użytkownikiem i fanem Openwrt od kilku lat.
+Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A to zebrane u mnie aplikacje mogą Ci się przydać.
 <h4 align="left theme=dark">Gdzie jestem dostępny:</h4>
 Szukaj mnie na forum eko.one.pl.
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Hi 👋
-My name is Rafał (IceG), welcome on my Github. I have been a user and fan of Openwrt for several years.
-If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected with me should be useful for you.
+My name is Rafał (nickname: IceG), welcome on my Github. I have been a user and fan of Openwrt for several years.
+If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected from me may be useful to you.
 <h4 align="left theme=dark">How to reach me:</h4>
 Look for me on eko.one.pl forum.
 
