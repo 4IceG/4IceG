@@ -28,10 +28,6 @@ If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected fr
 <h4 align="left theme=dark">How to reach me:</h4>
 Look for me on eko.one.pl forum.
 
-<p align="center">
-<img src="https://github.com/4IceG/Personal_data/blob/master/inswumin.png?raw=true" />
-</p>
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
