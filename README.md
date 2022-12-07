@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/mylte.png" />
+<img src="https://github.com/4IceG/Personal_data/blob/master/oe2dark.png?raw=true" />
 </p>
 
 <!--
