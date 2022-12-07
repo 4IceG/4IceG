@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/4IceG/Personal_data/blob/master/oe2dark.png?raw=true" />
+<img src="https://github.com/4IceG/Personal_data/blob/master/oe2new.png?raw=true" />
 </p>
 
 <!--
