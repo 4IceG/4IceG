@@ -1,7 +1,5 @@
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/note.png?raw=true" />
-  
-<img src="https://i.ibb.co/xzCdhZT/kartka2.jpg?raw=true" />
 </p>
 
 <!--
