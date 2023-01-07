@@ -29,9 +29,8 @@ If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected fr
 Look for me on eko.one.pl forum.
 
 ---
-#### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository https://github.com/4IceG/Modem-extras | Updated: 06.01.2023.
-
-#### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium https://github.com/4IceG/Modem-extras | Aktualizacja: 06.01.2023.
+#### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository (Updated: 06.01.2023) | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium (Aktualizacja: 06.01.2023)
+#### https://github.com/4IceG/Modem-extras
 ---
 
 ![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
