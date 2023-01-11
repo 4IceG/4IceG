@@ -32,6 +32,9 @@ Look for me on eko.one.pl forum.
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository (Updated: 06.01.2023) | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium (Aktualizacja: 06.01.2023)
 ### https://github.com/4IceG/Modem-extras
 ---
+<p align="center">
+<img src="https://github.com/4IceG/Personal_data/blob/master/inswumin.png?raw=true" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
 
