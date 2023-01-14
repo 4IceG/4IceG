@@ -32,7 +32,7 @@ If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected fr
 <h4 align="left theme=dark">How to reach me:</h4>
 Look for me on eko.one.pl forum.
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium (Aktualizacja: 06.01.2023) | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository (Updated: 06.01.2023) ✨</h1>
+<h2 align="left"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium (Aktualizacja: 06.01.2023) | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository (Updated: 06.01.2023) ✨</h1>
 <p align="left">
   <a href="https://github.com/4IceG/Modem-extras">
     https://github.com/4IceG/Modem-extras
