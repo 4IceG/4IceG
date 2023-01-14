@@ -16,21 +16,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Cześć 👋
+
+## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Cześć 👋
+
 Mam na imię Rafał (pseudonim w sieci/nick: IceG), witam na moim Githubie. Jestem użytkownikiem i fanem Openwrt od kilku lat.
 Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A to zebrane u mnie aplikacje mogą Ci się przydać.
 <h4 align="left theme=dark">Gdzie jestem dostępny:</h4>
 Szukaj mnie na forum eko.one.pl.
 
-### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Hi 👋
+
+## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Hi 👋
+
 My name is Rafał (nickname: IceG), welcome on my Github. I have been a user and fan of Openwrt for several years.
 If you have 3G / 4G / LTE / LTE-A mobile internet, the applications collected from me may be useful to you.
 <h4 align="left theme=dark">How to reach me:</h4>
 Look for me on eko.one.pl forum.
 
----
-### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository (Updated: 06.01.2023) | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium (Aktualizacja: 06.01.2023)
-### https://github.com/4IceG/Modem-extras
+<h2 align="center"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium (Aktualizacja: 06.01.2023) | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository (Updated: 06.01.2023) ✨</h1>
+<p align="left">
+  <a href="https://github.com/4IceG/Modem-extras">
+    https://github.com/4IceG/Modem-extras
+  </a>
+</p>
+
+
+## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pokaż swoje wsparcie | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Show your support
+
+Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy! | Please ⭐️ my packages if you like the effects of my work!
+
+<a href="https://github.com/sponsors/4IceG">
+  <img src="https://user-images.githubusercontent.com/1369994/192472283-18ecb05d-7f27-4962-b4dd-4b09d8d01256.png" width="160">
+</a>
+
 ---
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/inswumin.png?raw=true" />
