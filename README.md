@@ -37,7 +37,7 @@ Look for me on eko.one.pl forum.
   <a href="https://github.com/4IceG/Modem-extras">
     https://github.com/4IceG/Modem-extras
   </a>
-  ✨  Aktualizacja: 12.03.2023 | Updated: 12.03.2023
+  ✨  Aktualizacja: 20.03.2023 | Updated: 20.03.2023
 </p>
 
 
