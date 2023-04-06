@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/4IceG/Personal_data/blob/master/sticker.png?raw=true" />
+<img src="https://github.com/4IceG/Personal_data/blob/master/sticker2.png?raw=true" />
 </p>
 
 <!--
