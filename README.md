@@ -46,7 +46,7 @@ Look for me on eko.one.pl forum.
 Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy! | Please ⭐️ my packages if you like the effects of my work!
 
 <a href="https://github.com/sponsors/4IceG">
-  <img src="https://github.com/4IceG/Personal_data/blob/master/spbutton2.png?raw=true">
+  <img src="https://github.com/4IceG/Personal_data/blob/master/spons.PNG?raw=true">
 </a>
 
 ---
