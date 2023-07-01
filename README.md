@@ -34,7 +34,7 @@ Look for me on eko.one.pl forum.
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository</h1>
 <p align="center">
-  ⚡ Aktualizacja: 29.06.2023 | Updated: 29.06.2023 ⚡   
+  ⚡ Aktualizacja: 01.07.2023 | Updated: 01.07.2023 ⚡   
 </p>
 <p align="center">
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
@@ -62,6 +62,3 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy! | Pleas
 <!--
 <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=4IceG&count_private=true&show_icons=true" />
 -->
-<h4 align="left theme=dark">Languages and Tools | Języki i narzędzia:</h4>
-
-<img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos-site/master/languages/csharp.png" height="32">  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="32">  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/lua/lua_32x32.png" height="32">
