@@ -32,7 +32,7 @@ If you have 3G / 4G / LTE / LTE-A / 5G mobile internet, the applications collect
 <h4 align="left theme=dark">How to reach me:</h4>
 Look for me on eko.one.pl forum.
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository</h1>
+<h2 align="left"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository</h2>
 <p align="center">
   ⚡ Aktualizacja: 16.12.2023 | Updated: 16.12.2023 ⚡   
 </p>
@@ -50,6 +50,17 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 <a href="https://github.com/sponsors/4IceG">
   <img src="https://github.com/4IceG/Personal_data/blob/master/spons.PNG?raw=true">
 </a>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Podziękowania dla | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Thanks to</p>
+<p align="center">
+<!-- real-sponsors -->
+<a href="https://github.com/newdanceradio"><img src="https://github.com/newdanceradio.png" width="48px" alt="newdanceradio" /></a>&nbsp;&nbsp;
+<a href="https://github.com/radiomean"><img src="https://github.com/radiomean.png" width="36px" alt="radiomean" /></a>&nbsp;&nbsp;
+<a href="https://github.com/olekstomek"><img src="https://github.com/olekstomek.png" width="36px" alt="olekstomek" /></a>&nbsp;&nbsp;
+<a href="https://github.com/andoodle"><img src="https://github.com/andoodle.png" width="36px" alt="andoodle" /></a>&nbsp;&nbsp;
+<!-- real-sponsors -->
 </p>
 
 ---
