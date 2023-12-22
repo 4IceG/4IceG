@@ -53,7 +53,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Podziękowania dla | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Thanks to</p>
+<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24">Podziękowania dla sponsorów | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24">Thanks to the sponsors</p>
 <p align="center">
 <!-- real-sponsors -->
 <a href="https://github.com/newdanceradio"><img src="https://github.com/newdanceradio.png" width="48px" alt="newdanceradio" /></a>&nbsp;&nbsp;
