@@ -34,7 +34,7 @@ Look for me on eko.one.pl forum.
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository</h2>
 <p align="center">
-  ⚡ Aktualizacja: 16.12.2023 | Updated: 16.12.2023 ⚡   
+  ⚡ Aktualizacja: 02.01.2024 | Updated: 02.01.2024 ⚡   
 </p>
 <p align="center">
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
