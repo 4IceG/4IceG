@@ -66,6 +66,11 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 <!-- real-sponsors -->
 </p>
 
+### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Statystyka | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Statistics
+
+| <a href="https://github.com/sirpdboy/openwrt18.06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4IceG&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="4IceG's github stats" /></a> | <a href="https://github.com/sirpdboy/openwrt18.06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4IceG&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- |  ------------- | 
+
 ---
 <!--
 <p align="center">
