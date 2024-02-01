@@ -39,7 +39,7 @@ Look for me on eko.one.pl forum.
 </a>
 </p>
 <p align="center">
-  ⚡ <b>13.01.2024</b> ⚡
+  ⚡ <b>01.02.2024</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
 </p>
 
