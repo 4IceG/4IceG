@@ -77,8 +77,8 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 <img src="https://github.com/4IceG/Personal_data/blob/master/inswumin.png?raw=true" />
 </p>
 -->
-
 ![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 <!--
 <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=4IceG&count_private=true&show_icons=true" />
