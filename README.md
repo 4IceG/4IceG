@@ -59,7 +59,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24">Podziękowania dla sponsorów | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24">Thanks to the sponsors</p>
 <p align="center">
 <!-- real-sponsors -->
-<a href="https://github.com/newdanceradio"><img src="https://github.com/newdanceradio.png" width="48px" alt="newdanceradio" /></a>&nbsp;&nbsp;
+<a href="https://github.com/newdanceradio"><img src="https://github.com/newdanceradio.png" width="36px" alt="newdanceradio" /></a>&nbsp;&nbsp;
 <a href="https://github.com/radiomean"><img src="https://github.com/radiomean.png" width="36px" alt="radiomean" /></a>&nbsp;&nbsp;
 <a href="https://github.com/olekstomek"><img src="https://github.com/olekstomek.png" width="36px" alt="olekstomek" /></a>&nbsp;&nbsp;
 <a href="https://github.com/andoodle"><img src="https://github.com/andoodle.png" width="36px" alt="andoodle" /></a>&nbsp;&nbsp;
@@ -68,17 +68,19 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Statystyka | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Statistics
 
-| <a href="https://github.com/sirpdboy/openwrt18.06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4IceG&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="4IceG's github stats" /></a> | <a href="https://github.com/sirpdboy/openwrt18.06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4IceG&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4IceG&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="4IceG's github stats" /></a> | <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4IceG&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- |  ------------- | 
 
----
 <!--
+---
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/inswumin.png?raw=true" />
 </p>
 -->
-![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
+
 
 <!--
 <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=4IceG&count_private=true&show_icons=true" />
