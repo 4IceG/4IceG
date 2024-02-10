@@ -16,7 +16,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: 4IceG
-          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
           plugin_discussions: yes
