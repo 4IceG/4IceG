@@ -1,4 +1,4 @@
-name: Sponsors goal
+name: GitHub metrics
 on:
   schedule:
     - cron: "0 0 * * *"
