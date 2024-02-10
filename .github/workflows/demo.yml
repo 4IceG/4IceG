@@ -14,19 +14,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Personal metrics
+        uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.sponsors.svg
-          # Your GitHub token
-          # The following scopes are required:
-          #  - read:user
-          #  - read:org
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
