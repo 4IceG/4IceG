@@ -15,7 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.sponsors.svg
-          base: ""
           # Your GitHub token
           # The following scopes are required:
           #  - read:user
