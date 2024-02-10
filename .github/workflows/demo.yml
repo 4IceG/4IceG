@@ -20,9 +20,9 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: 4IceG
-          template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
+          use_prebuilt_image: master
+          base: "header, repositories"
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list, about
@@ -34,8 +34,7 @@ jobs:
           filename: discussions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: 4IceG
-          template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Europe/Warsaw
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
