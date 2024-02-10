@@ -12,20 +12,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: 4IceG
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Warsaw
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Sponsor Me!
-          plugin_stars: yes
-          plugin_stars_limit: 5
+    - name: Example
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.classic.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        user: 4IceG
+        base: header, repositories
+        config_timezone: Europe/Warsaw
+        plugin_lines: yes
