@@ -13,7 +13,7 @@ jobs:
       - name: Personal metrics
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.svg
+          filename: metrics.plugin.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: 4IceG
           config_timezone: Europe/Warsaw
@@ -27,7 +27,7 @@ jobs:
       - name: GitHub Discussions
         uses: lowlighter/metrics@latest
         with:
-          filename: discussions.svg
+          filename: metrics.plugin.discussions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: 4IceG
           base: ""
