@@ -16,6 +16,7 @@ jobs:
         with:
           filename: metrics.plugin.sponsors.svg
           token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          user: 4IceG
           base: ""
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list
