@@ -32,5 +32,6 @@ jobs:
           user: 4IceG
           base: ""
           config_timezone: Europe/Warsaw
+          use_prebuilt_image: master
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
