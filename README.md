@@ -35,7 +35,7 @@ Look for me on eko.one.pl forum.
 <h2 align="left"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository</h2>
 <p align="center">
   <a href="https://github.com/4IceG/Modem-extras">
-  <img src="https://github.com/4IceG/Personal_data/blob/master/info_repo.PNG?raw=true">
+  <img width=33% src="https://github.com/4IceG/Personal_data/blob/master/info_repo.PNG?raw=true">
 </a>
 </p>
 <p align="center">
@@ -51,7 +51,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 </p>
 <p align="center">
 <a href="https://github.com/sponsors/4IceG">
-  <img src="https://github.com/4IceG/Personal_data/blob/master/spons.PNG?raw=true">
+  <img width=33% src="https://github.com/4IceG/Personal_data/blob/master/spons.PNG?raw=true">
 </a>
 </p>
 
