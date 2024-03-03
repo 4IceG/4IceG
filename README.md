@@ -51,7 +51,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 </p>
 <p align="center">
 <a href="https://github.com/sponsors/4IceG">
-  <img width=25% src="https://github.com/4IceG/Personal_data/blob/master/newspons.PNG?raw=true">
+  <img width=25% src="https://github.com/4IceG/Personal_data/blob/master/nspons.PNG?raw=true">
 </a>
 </p>
 
