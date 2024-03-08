@@ -86,8 +86,8 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-![](https://komarev.com/ghpvc/?username=4IceG&color=30afe4&label=PROFILE+VIEWS)
-<a href="https://github.com/4IceG"><img src="https://img.shields.io/github/followers/4IceG?color=30afe4&logoColor=30afe4&logo=github&style="></a>
+![](https://komarev.com/ghpvc/?username=4IceG&color=30afe4&label=PROFILE+VIEWS) 
+<a href="https://github.com/4IceG"><img src="https://img.shields.io/github/followers/4IceG?color=30afe4&logoColor=30afe4&logo=github&style="></a> 
 <a href="https://github.com/sponsors/4IceG"><img src="https://img.shields.io/github/sponsors/4IceG?color=30afe4&logoColor=30afe4&logo=github"></a>
 
 <!--
