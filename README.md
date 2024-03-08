@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Cześć 👋
 
-Mam na imię Rafał (pseudonim w sieci/nick: IceG), witam na moim Githubie. Jestem użytkownikiem i fanem Openwrt od kilku lat.
+Mam na imię Rafał (pseudonim w sieci/nick: IceG), witam na moim Githubie. Jestem użytkownikiem i fanem OpenWrt od kilku lat.
 Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A / 5G to zebrane u mnie aplikacje mogą Ci się przydać.
 <h4 align="left theme=dark">Gdzie jestem dostępny:</h4>
 Szukaj mnie na forum eko.one.pl.
@@ -27,7 +27,7 @@ Szukaj mnie na forum eko.one.pl.
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Hi 👋
 
-My name is Rafał (nickname: IceG), welcome on my Github. I have been a user and fan of Openwrt for several years.
+My name is Rafał (nickname: IceG), welcome on my Github. I have been a user and fan of OpenWrt for several years.
 If you have 3G / 4G / LTE / LTE-A / 5G mobile internet, the applications collected from me may be useful to you.
 <h4 align="left theme=dark">How to reach me:</h4>
 Look for me on eko.one.pl forum.
@@ -86,9 +86,11 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-![](https://komarev.com/ghpvc/?username=4IceG&color=green&label=PROFILE+VIEWS)
-
+![](https://komarev.com/ghpvc/?username=4IceG&color=30afe4&label=PROFILE+VIEWS)
+<a href="https://github.com/4IceG"><img src="https://img.shields.io/github/followers/4IceG?color=30afe4&logoColor=30afe4&logo=github&style="></a>
+<a href="https://github.com/sponsors/4IceG"><img src="https://img.shields.io/github/sponsors/4IceG?color=30afe4&logoColor=30afe4&logo=github"></a>
 
 <!--
+<a href="https://github.com/4IceG"><img src="https://img.shields.io/github/followers/4IceG?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=4IceG&count_private=true&show_icons=true" />
 -->
