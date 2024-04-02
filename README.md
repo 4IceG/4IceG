@@ -76,29 +76,28 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pakiety LuCI JS | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> LuCI JS packages
 [![luci-app-3ginfo-lite](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-3ginfo-lite&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-3ginfo-lite)
 [![luci-app-modemband](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemband&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-modemband)
-
-[![luci-app-lite-watchdog](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-lite-watchdog&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-lite-watchdog)
-[![luci-app-modemdefine](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemdefine&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-modemdefine)
-[![luci-app-sms-tool-js](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-sms-tool-js&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-sms-tool-js)   
-[![luci-app-irqbalance](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-irqbalance&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-irqbalance)
-[![luci-app-easyconfig-transfer](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-easyconfig-transfer&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-easyconfig-transfer)
+[![luci-app-lite-watchdog](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-lite-watchdog&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-lite-watchdog)
+[![luci-app-modemdefine](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemdefine&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-modemdefine)
+[![luci-app-sms-tool-js](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-sms-tool-js&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-sms-tool-js)   
+[![luci-app-irqbalance](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-irqbalance&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-irqbalance)
+[![luci-app-easyconfig-transfer](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-easyconfig-transfer&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-easyconfig-transfer)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pakiety LuCI Lua | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> LuCI Lua packages
-[![luci-app-sms-tool](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-sms-tool&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-sms-tool)
+[![luci-app-sms-tool](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-sms-tool&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-sms-tool)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Kącik modemowy | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Modem corner
-[![RM520N-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RM520N-GL&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/RM520N-GL)
-[![RG500Q-EA](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RG500Q-EA&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/RG500Q-EA)
-[![EM160R-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM160R-GL&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/EM160R-GL)
-[![EM12-G](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM12-G&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/EM12-G)
+[![RM520N-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RM520N-GL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RM520N-GL)
+[![RG500Q-EA](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RG500Q-EA&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RG500Q-EA)
+[![EM160R-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM160R-GL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/EM160R-GL)
+[![EM12-G](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM12-G&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/EM12-G)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje kompilacje | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My snapshot builds
-[![ZBT-Z8102AX-M2](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=ZBT-Z8102AX-M2&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/ZBT-Z8102AX-M2)
-[![ZTE-MF286D](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=ZTE-MF286D&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/ZTE-MF286D)
+[![ZBT-Z8102AX-M2](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=ZBT-Z8102AX-M2&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/ZBT-Z8102AX-M2)
+[![ZTE-MF286D](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=ZTE-MF286D&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/ZTE-MF286D)
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Statystyka | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Statistics
 
-| <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4IceG&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=30afe4&text_color=8B949E&icon_color=30afe4" alt="4IceG's github stats" /></a> | <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4IceG&layout=compact&theme=buefy&hide_border=true&title_color=30afe4&icon_color=30afe4" /></a> |
+| <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4IceG&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=86400&theme=transparent&hide_border=true" alt="4IceG's github stats" /></a> | <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4IceG&layout=pie&cache_seconds=86400&theme=transparent&hide_border=true" /></a> |
 | ------------- |  ------------- | 
 
 <!--
