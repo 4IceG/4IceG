@@ -74,8 +74,8 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 </p>
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pakiety LuCI JS | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> LuCI JS packages
-[![luci-app-3ginfo-lite](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-3ginfo-lite&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)](https://github.com/4IceG/luci-app-3ginfo-lite)
-[![luci-app-modemband](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemband&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)](https://github.com/4IceG/luci-app-modemband)
+[![luci-app-3ginfo-lite](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-3ginfo-lite&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-3ginfo-lite)
+[![luci-app-modemband](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemband&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-modemband)
 
 [![luci-app-lite-watchdog](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-lite-watchdog&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-lite-watchdog)
 [![luci-app-modemdefine](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemdefine&border_color=30afe4&icon_color=30afe4)](https://github.com/4IceG/luci-app-modemdefine)
