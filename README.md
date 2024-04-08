@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Cześć 👋
+## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Cześć 👋, jestem Rafał (pseudonim w sieci: IceG)
 
-Mam na imię Rafał (pseudonim w sieci/nick: IceG), witam na moim Githubie. Jestem użytkownikiem i fanem OpenWrt od kilku lat.
+Witam Cię na moim Githubie. Jestem użytkownikiem i fanem OpenWrt od kilku lat.
 Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A / 5G to zebrane u mnie aplikacje mogą Ci się przydać.
 <h4 align="left theme=dark">Gdzie jestem dostępny:</h4>
 Szukaj mnie na forum eko.one.pl.
 
 
-## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Hi 👋
+## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Hi 👋, I'm Rafał (nickname: IceG)
 
-My name is Rafał (nickname: IceG), welcome on my Github. I have been a user and fan of OpenWrt for several years.
+Welcome on my Github. I have been a user and fan of OpenWrt for several years.
 If you have 3G / 4G / LTE / LTE-A / 5G mobile internet, the applications collected from me may be useful to you.
 <h4 align="left theme=dark">How to reach me:</h4>
 Look for me on eko.one.pl forum.
