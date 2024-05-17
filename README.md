@@ -42,7 +42,7 @@ Look for me on eko.one.pl forum.
   <img src="https://github.com/4IceG/Personal_data/raw/master/look.webp">
 </p>
 <p align="center">
-  ⚡ <b>12.05.2024</b> ⚡
+  ⚡ <b>17.05.2024</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
 </p>
 
