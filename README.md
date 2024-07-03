@@ -90,6 +90,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Kącik modemowy | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Modem corner
 [![RM520N-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RM520N-GL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RM520N-GL)
+[![RM520N-EU](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RM520N-EU&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RM520N-EU)
 [![RG500Q-EA](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RG500Q-EA&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RG500Q-EA)
 [![EM160R-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM160R-GL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/EM160R-GL)
 [![EM12-G](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM12-G&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/EM12-G)
