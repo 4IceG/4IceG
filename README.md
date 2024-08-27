@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Cześć 👋, jestem Rafał (pseudonim w sieci: IceG)
+# <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Siemanko 👋, jestem Rafał (pseudonim w sieci: IceG)
 
 Witam Cię na moim Githubie. Jestem użytkownikiem i fanem OpenWrt od kilku lat.
 Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A / 5G to zebrane u mnie aplikacje mogą Ci się przydać.
@@ -42,7 +42,7 @@ Look for me on eko.one.pl forum.
   <img src="https://github.com/4IceG/Personal_data/raw/master/look.webp">
 </p>
 <p align="center">
-  ⚡ <b>22.06.2024</b> ⚡
+  ⚡ <b>27.08.2024</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
 </p>
 
