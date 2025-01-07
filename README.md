@@ -45,6 +45,10 @@ Look for me on eko.one.pl forum.
   ⚡ <b>27.08.2024</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
 </p>
+<p align="center">
+  ⚡ <b>06.01.2025</b> ⚡
+  <a href="https://github.com/4IceG/Modem-extras-apk">https://github.com/4IceG/Modem-extras-apk</a>
+</p>
 
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pokaż swoje wsparcie | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Show your support
