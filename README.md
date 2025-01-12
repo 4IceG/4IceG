@@ -63,22 +63,13 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24">Podziękowania dla sponsorów | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24">Thanks to the sponsors</p>
-<p align="center">
-<!-- real-sponsors -->
-<a href="https://github.com/newdanceradio"><img src="https://github.com/newdanceradio.png" width="36px" alt="newdanceradio" /></a>&nbsp;&nbsp;
-<a href="https://github.com/sperrgebiet"><img src="https://github.com/sperrgebiet.png" width="36px" alt="newdanceradio" /></a>&nbsp;&nbsp;
-<a href="https://github.com/radiomean"><img src="https://github.com/radiomean.png" width="36px" alt="radiomean" /></a>&nbsp;&nbsp;
-<a href="https://github.com/olekstomek"><img src="https://github.com/olekstomek.png" width="36px" alt="olekstomek" /></a>&nbsp;&nbsp;
-<a href="https://github.com/andoodle"><img src="https://github.com/andoodle.png" width="36px" alt="andoodle" /></a>&nbsp;&nbsp;
-<!-- real-sponsors -->
-</p>
-
-<p align="center">
 <a href="https://suppi.pl/rafalwabik"><img width=25% src="https://github.com/4IceG/Personal_data/blob/master/kawa.png?raw=true" alt="https://suppi.pl/rafalwabik" /></a>&nbsp;&nbsp;
 </p>
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/qrcode.png?raw=true" width="200px" alt="Rafał Wabik (IceG) QR Code" />
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24">Podziękowania dla sponsorów :thumbsup: | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24">Thanks to the sponsors :thumbsup: </p>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pakiety LuCI JS | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> LuCI JS packages
