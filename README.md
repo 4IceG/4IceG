@@ -35,14 +35,14 @@ Look for me on eko.one.pl forum.
 <h2 align="left"><img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje repozytorium | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My repository</h2>
 <p align="center">
   <a href="https://github.com/4IceG/Modem-extras">
-  <img width=33% src="https://github.com/4IceG/Personal_data/blob/master/info_repo.PNG?raw=true">
+  <img width=40% src="https://github.com/4IceG/Personal_data/blob/master/info_repo.PNG?raw=true">
 </a>
 </p>
 <p align="center">
   <img src="https://github.com/4IceG/Personal_data/raw/master/look.webp">
 </p>
 <p align="center">
-  ⚡ <b>26.01.2025</b> ⚡
+  ⚡ <b>05.05.2025</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
 </p>
 <p align="center">
@@ -58,12 +58,12 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 </p>
 <p align="center">
 <a href="https://github.com/sponsors/4IceG">
-  <img width=25% src="https://github.com/4IceG/Personal_data/blob/master/nspons.PNG?raw=true">
+<img width=25% src="https://github.com/4IceG/Personal_data/blob/master/nspons.PNG?raw=true">
 </a>
 </p>
 
 <p align="center">
-<a href="https://suppi.pl/rafalwabik"><img width=25% src="https://github.com/4IceG/Personal_data/blob/master/kawa.png?raw=true" alt="https://suppi.pl/rafalwabik" /></a>&nbsp;&nbsp;
+<a href="https://suppi.pl/rafalwabik"><img width=25% src="https://github.com/4IceG/Personal_data/blob/master/kawa.png?raw=true" alt="https://suppi.pl/rafalwabik" /></a>
 </p>
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/qrcode.png?raw=true" width="200px" alt="Rafał Wabik (IceG) QR Code" />
