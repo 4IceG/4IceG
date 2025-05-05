@@ -46,7 +46,7 @@ Look for me on eko.one.pl forum.
   <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
 </p>
 <p align="center">
-  ⚡ <b>06.01.2025</b> ⚡
+  ⚡ <b>05.05.2025</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras-apk">https://github.com/4IceG/Modem-extras-apk</a>
 </p>
 
