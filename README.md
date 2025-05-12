@@ -42,18 +42,16 @@ Look for me on eko.one.pl forum.
   <img src="https://github.com/4IceG/Personal_data/raw/master/look.webp">
 </p>
 <p align="center">
-<a href="https://github.com/4IceG/Modem-extras"><img src="https://github.com/4IceG/Personal_data/blob/master/ipk-repo.png?raw=true"></a>
+<a href="https://github.com/4IceG/Modem-extras"><img width=3% src="https://github.com/4IceG/Personal_data/blob/master/ipk-repo.png?raw=true"></a>
+ ⚡ <b>05.05.2025</b> ⚡
+ <a href="https://github.com/4IceG/Modem-extras-apk">https://github.com/4IceG/Modem-extras</a>
+ <a href="https://github.com/4IceG/Modem-extras"><img width=3% src="https://github.com/4IceG/Personal_data/blob/master/ipk-repo.png?raw=true"></a>
 </p>
 <p align="center">
-⚡ <b>05.05.2025</b> ⚡
-<a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
-</p>
-<p align="center">
-<a href="https://github.com/4IceG/Modem-extras-apk"><img src="https://github.com/4IceG/Personal_data/blob/master/apk-repo.png?raw=true"></a>
-</p>
-<p align="center">
+  <a href="https://github.com/4IceG/Modem-extras-apk"><img width=3% src="https://github.com/4IceG/Personal_data/blob/master/apk-repo.png?raw=true"></a>
   ⚡ <b>05.05.2025</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras-apk">https://github.com/4IceG/Modem-extras-apk</a>
+  <a href="https://github.com/4IceG/Modem-extras-apk"><img width=3% src="https://github.com/4IceG/Personal_data/blob/master/apk-repo.png?raw=true"></a>
 </p>
 
 
