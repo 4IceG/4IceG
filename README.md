@@ -61,6 +61,9 @@ Look for me on eko.one.pl forum.
 Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Please ⭐️ my packages if you like the effects of my work.
 </p>
 <p align="center">
+<b>Masz również okazję wesprzeć dalszy rozwój pakietów. | You also have the opportunity to support further development of the packages.</b>
+</p>
+<p align="center">
 <a href="https://suppi.pl/rafalwabik"><img width=25% src="https://github.com/4IceG/Personal_data/blob/master/kawa.png?raw=true" alt="https://suppi.pl/rafalwabik" /></a>
 </p>
 <p align="center">
