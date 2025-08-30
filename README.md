@@ -43,7 +43,7 @@ Look for me on eko.one.pl forum.
 </p>
 <p align="center">
 <a href="https://github.com/4IceG/Modem-extras"><img width=5% src="https://github.com/4IceG/Personal_data/blob/master/ipk-repo.png?raw=true"></a>
- ⚡ <b>10.06.2025</b> ⚡
+ ⚡ <b>30.08.2025</b> ⚡
  <a href="https://github.com/4IceG/Modem-extras">https://github.com/4IceG/Modem-extras</a>
  <a href="https://github.com/4IceG/Modem-extras"><img width=5% src="https://github.com/4IceG/Personal_data/blob/master/ipk-repo.png?raw=true"></a>
 </p>
