@@ -63,9 +63,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 <p align="center">
 <b>Masz również okazję wesprzeć dalszy rozwój pakietów. | You also have the opportunity to support further development of the packages.</b>    
 </p>
-<p align="center">
-<b><i>Obecnie zbieram na router Banana Pi BPI-R4. | I am currently raising money for a Banana Pi BPI-R4 router.</i></b>
-</p>
+
 <p align="center">
 <a href="https://suppi.pl/rafalwabik"><img width=25% src="https://github.com/4IceG/Personal_data/blob/master/kawa.png?raw=true" alt="https://suppi.pl/rafalwabik" /></a>
 </p>
