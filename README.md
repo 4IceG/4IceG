@@ -80,38 +80,43 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 </p>
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pakiety LuCI JS | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> LuCI JS packages
-[![luci-app-atcommands](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-atcommands&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-atcommands)
-[![luci-app-atinout](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-atinout&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-atinout)
-[![luci-app-3ginfo-lite](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-3ginfo-lite&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-3ginfo-lite)
-[![luci-app-modemdata](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemdata&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-modemdata)
-[![luci-app-modemband](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemband&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-modemband)
-[![luci-app-lite-watchdog](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-lite-watchdog&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-lite-watchdog)
-[![luci-app-modemdefine](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-modemdefine&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-modemdefine)
-[![luci-app-sms-tool-js](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-sms-tool-js&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-sms-tool-js)   
-[![luci-app-crontab-wizard](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-crontab-wizard&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-crontab-wizard)
-[![luci-app-easyconfig-transfer](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-easyconfig-transfer&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-easyconfig-transfer)
-[![luci-app-irqbalance](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-irqbalance&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-irqbalance)
-[![luci-app-mini-diskmanager](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-mini-diskmanager&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-mini-diskmanager)
-[![luci-app-ports-status-mod](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-ports-status-mod&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-ports-status-mod)
+| Name / Link | Info |
+| --- | --- |
+| [luci-app-atcommands](https://github.com/4IceG/luci-app-atcommands) | LuCI interface for the sms-tool. The user interface supports only AT commands. |
+| [luci-app-atinout](https://github.com/4IceG/luci-app-atinout) | LuCI interface for the atinout. The user interface supports AT commands. |
+| [luci-app-3ginfo-lite](https://github.com/4IceG/luci-app-3ginfo-lite) | Graphic visualization of the mPCI-E / M.2 and USB 3G / LTE / LTE-A / 5G modem connection status. (LuCI JS) * OpenWrt >= 21.02 |
+| [luci-app-modemdata](https://github.com/4IceG/luci-app-modemdata) | LuCI JS interface for modemdata package. Graphic visualization of the LTE / LTE-A / 5G modem connection status. In the future, it will replace luci-app-3ginfo-lite. |
+| [luci-app-modemband](https://github.com/4IceG/luci-app-modemband) | User interface for the modemband package. Program to set LTE/5G bands for selected 4G/5G modems. (LuCI JS) * OpenWrt >= 21.02 |
+| [luci-app-lite-watchdog](https://github.com/4IceG/luci-app-lite-watchdog) | Simple internet connection monitor. Connection tester based on the method of testing pings to a given address. (LuCI JS) * OpenWrt >= 21.02 |
+| [luci-app-modemdefine](https://github.com/4IceG/luci-app-modemdefine) | LuCI JS interface to define the available modems. The list of modems will make it easier for the user to switch between modems in other LuCI applications. |
+| [luci-app-sms-tool-js](https://github.com/4IceG/luci-app-sms-tool-js) | Simple user interface to handle SMS / USSD / AT commands via sms_tool application. (LuCI JS) * OpenWrt >= 21.02 |
+| [luci-app-crontab-wizard](https://github.com/4IceG/luci-app-crontab-wizard) | Super simple graphical configurator for crontab. |
+| [luci-app-easyconfig-transfer](https://github.com/4IceG/luci-app-easyconfig-transfer) | LuCI JS interface for the easyconfig transfer statistics. |
+| [luci-app-irqbalance](https://github.com/4IceG/luci-app-irqbalance) | My small modification of the luci-app-irqbalance package. |
+| [luci-app-mini-diskmanager](https://github.com/4IceG/luci-app-mini-diskmanager) | LuCI JS Mini Disk Manager. Interface for simple disk/partition management from OpenWrt. |
+| [luci-app-ports-status-mod](https://github.com/4IceG/luci-app-ports-status-mod) | Small modification of the Port Status feature from OpenWrt. Info: possibility to change order of ports (drag and drop), added option to change label and description for a port. |
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Pakiety LuCI Lua | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> LuCI Lua packages
-[![luci-app-sms-tool](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=luci-app-sms-tool&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/luci-app-sms-tool)
+| Name / Link | Info |
+| --- | --- |
+| [luci-app-sms-tool](https://github.com/4IceG/luci-app-sms-tool) | Simple user interface to handle SMS / USSD / AT commands via sms_tool application. * OpenWrt =< 19.07 |
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Kącik modemowy | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Modem corner
-[![RM520N-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RM520N-GL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RM520N-GL)
-[![RM520N-EU](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RM520N-EU&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RM520N-EU)
-[![RG500Q-EA](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=RG500Q-EA&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/RG500Q-EA)
-[![EM160R-GL](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM160R-GL&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/EM160R-GL)
-[![EM12-G](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=EM12-G&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/EM12-G)
+| Name / Link | Info |
+| --- | --- |
+| [RM520N-GL](https://github.com/4IceG/RM520N-GL) | Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications. |
+| [RM520N-EU](https://github.com/4IceG/RM520N-EU) | Quectel RM520N-EU is 5G IoT module specially optimized for IoT/eMBB applications. |
+| [RG500Q-EA](https://github.com/4IceG/RG500Q-EA) | Quectel RG500Q-EA is a series of 5G Sub-6GHz module optimized specially for IoT and eMBB applications. |
+| [EM160R-GL](https://github.com/4IceG/EM160R-GL) | Quectel EM160R-GL is LTE Advanced Cat 16 module. |
+| [EM12-G](https://github.com/4IceG/EM12-G) | Quectel EM12-G is LTE Advanced category 12 module. |
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Moje kompilacje | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> My snapshot builds
-[![ZBT-Z8102AX-M2](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=ZBT-Z8102AX-M2&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/ZBT-Z8102AX-M2)
-[![ZTE-MF286D](https://github-readme-stats.vercel.app/api/pin/?username=4IceG&repo=ZTE-MF286D&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)](https://github.com/4IceG/ZTE-MF286D)
+| Name / Link | Info |
+| --- | --- |
+| [ZBT-Z8102AX-M2](https://github.com/4IceG/ZBT-Z8102AX-M2) | My OpenWrt SNAPSHOT / LuCI Main build for the Z8102AX-M2 (Z8102AX V1 & V2) router [Build: 05.10.2025]. |
+| [ZTE-MF286D](https://github.com/4IceG/ZTE-MF286D) | My compilation: OpenWrt SNAPSHOT / LuCI Main build r31617-677c5c3b0d [Build: 29.10.2025]. |
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Statystyka | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Statistics
-
-| <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4IceG&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=86400&theme=transparent&hide_border=true" alt="4IceG's github stats" /></a> | <a href="https://github.com/4IceG"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4IceG&layout=pie&cache_seconds=86400&theme=transparent&hide_border=true" /></a> |
-| ------------- |  ------------- | 
 
 <!--
 ---
