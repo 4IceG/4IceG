@@ -90,6 +90,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 | [luci-app-lite-watchdog](https://github.com/4IceG/luci-app-lite-watchdog) | Simple internet connection monitor. Connection tester based on the method of testing pings to a given address. (LuCI JS) * OpenWrt >= 21.02 |
 | [luci-app-modemdefine](https://github.com/4IceG/luci-app-modemdefine) | LuCI JS interface to define the available modems. The list of modems will make it easier for the user to switch between modems in other LuCI applications. |
 | [luci-app-sms-tool-js](https://github.com/4IceG/luci-app-sms-tool-js) | Simple user interface to handle SMS / USSD / AT commands via sms_tool application. (LuCI JS) * OpenWrt >= 21.02 |
+| [luci-app-sms-manager](https://github.com/4IceG/luci-app-sms-manager) | Simple user interface to handle SMS / USSD / AT commands via ModemManager application. (LuCI JS) |
 | [luci-app-crontab-wizard](https://github.com/4IceG/luci-app-crontab-wizard) | Super simple graphical configurator for crontab. |
 | [luci-app-easyconfig-transfer](https://github.com/4IceG/luci-app-easyconfig-transfer) | LuCI JS interface for the easyconfig transfer statistics. |
 | [luci-app-irqbalance](https://github.com/4IceG/luci-app-irqbalance) | My small modification of the luci-app-irqbalance package. |
