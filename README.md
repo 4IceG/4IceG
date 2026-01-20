@@ -25,6 +25,9 @@ Jeżeli posiadasz mobilny internet 3G / 4G / LTE / LTE-A / 5G to zebrane u mnie 
 Szukaj mnie na forum eko.one.pl.
 
 
+##### GG: 10822697
+
+
 # <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Hi 👋, I'm Rafał (nickname: IceG)
 
 Welcome on my Github. I have been a user and fan of OpenWrt for several years.
