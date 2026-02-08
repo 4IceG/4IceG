@@ -52,7 +52,7 @@ Look for me on eko.one.pl forum.
 </p>
 <p align="center">
   <a href="https://github.com/4IceG/Modem-extras-apk"><img width=5% src="https://github.com/4IceG/Personal_data/blob/master/apk-repo.png?raw=true"></a>
-  ⚡ <b>07.02.2026</b> ⚡
+  ⚡ <b>08.02.2026</b> ⚡
   <a href="https://github.com/4IceG/Modem-extras-apk">https://github.com/4IceG/Modem-extras-apk</a>
   <a href="https://github.com/4IceG/Modem-extras-apk"><img width=5% src="https://github.com/4IceG/Personal_data/blob/master/apk-repo.png?raw=true"></a>
 </p>
