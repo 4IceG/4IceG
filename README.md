@@ -74,6 +74,12 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 <a href="https://suppi.pl/rafalwabik"><img src="https://github.com/4IceG/Personal_data/blob/master/qrcode.png?raw=true" width="200px" alt="Rafał Wabik (IceG) QR Code" />
 </p>
 <p align="center">
+<a href="https://buycoffee.to/rafalwabik"><img width=25% src="https://github.com/4IceG/Personal_data/blob/master/gif-przycisk.gif?raw=true" alt="https://buycoffee.to/rafalwabik" /></a>
+</p>
+<p align="center">
+<a href="https://buycoffee.to/rafalwabik"><img src="https://github.com/4IceG/Personal_data/blob/master/QR_buycoffee.png?raw=true" width="200px" alt="Rafał Wabik (IceG) QR Code" />
+</p>
+<p align="center">
 <a href="https://github.com/sponsors/4IceG">
 <img width=25% src="https://github.com/4IceG/Personal_data/blob/master/nspons.PNG?raw=true">
 </a>
