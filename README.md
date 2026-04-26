@@ -116,6 +116,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 | --- | --- |
 | [RM520N-GL](https://github.com/4IceG/RM520N-GL) | Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications. |
 | [RM520N-EU](https://github.com/4IceG/RM520N-EU) | Quectel RM520N-EU is 5G IoT module specially optimized for IoT/eMBB applications. |
+| [RG500Q-AE](https://github.com/4IceG/RM500Q-AE) | Quectel RG500Q-AE is a series of 5G Sub-6GHz module optimized specially for IoT and eMBB applications. |
 | [RG500Q-EA](https://github.com/4IceG/RG500Q-EA) | Quectel RG500Q-EA is a series of 5G Sub-6GHz module optimized specially for IoT and eMBB applications. |
 | [EM160R-GL](https://github.com/4IceG/EM160R-GL) | Quectel EM160R-GL is LTE Advanced Cat 16 module. |
 | [EM12-G](https://github.com/4IceG/EM12-G) | Quectel EM12-G is LTE Advanced category 12 module. |
