@@ -93,6 +93,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 | --- | --- |
 | [luci-app-atcommands](https://github.com/4IceG/luci-app-atcommands) | LuCI interface for the sms-tool. The user interface supports only AT commands. |
 | [luci-app-atinout](https://github.com/4IceG/luci-app-atinout) | LuCI interface for the atinout. The user interface supports AT commands. |
+| [luci-app-guest-wifi-js](https://github.com/4IceG/luci-app-guest-wifi-js) | LuCI interface for easily creating and management isolated Wi-Fi networks for guests, each with its own access point, DHCP, and firewall rules. |
 | [luci-app-3ginfo-lite](https://github.com/4IceG/luci-app-3ginfo-lite) | Graphic visualization of the mPCI-E / M.2 and USB 3G / LTE / LTE-A / 5G modem connection status. (LuCI JS) * OpenWrt >= 21.02 |
 | [luci-app-modemdata](https://github.com/4IceG/luci-app-modemdata) | LuCI JS interface for modemdata package. Graphic visualization of the LTE / LTE-A / 5G modem connection status. In the future, it will replace luci-app-3ginfo-lite. |
 | [luci-app-modemband](https://github.com/4IceG/luci-app-modemband) | User interface for the modemband package. Program to set LTE/5G bands for selected 4G/5G modems. (LuCI JS) * OpenWrt >= 21.02 |
