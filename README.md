@@ -127,7 +127,7 @@ Proszę ⭐️ moje pakiety jeśli podobają Ci się efekty mojej pracy. | Pleas
 | --- | --- |
 | [ZBT-Z8102AX-M2](https://github.com/4IceG/ZBT-Z8102AX-M2) | My OpenWrt SNAPSHOT / LuCI Main build for the Z8102AX-M2 (Z8102AX V1 & V2) router [Build: 05.10.2025]. |
 | [ZTE-MF286D](https://github.com/4IceG/ZTE-MF286D) | My compilation: OpenWrt SNAPSHOT / LuCI Main build r31617-677c5c3b0d [Build: 29.10.2025]. |
-| [Xunison Exigo Hub D50-5G-NSS](https://github.com/4IceG/Xunison-Exigo-Hub-D50-5G-NSS) | My compilation: OpenWrt SNAPSHOT / LuCI Main [Build: 25.10.2026]. |
+| [Xunison Exigo Hub D50-5G-NSS](https://github.com/4IceG/Xunison-Exigo-Hub-D50-5G-NSS) | My compilation: OpenWrt SNAPSHOT / LuCI Main [Build: 29.10.2026]. |
 
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Statystyka | <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Statistics
